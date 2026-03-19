@@ -14,7 +14,7 @@ consumo_mensal = (potencia * horas_dia * 30) / 1000
 custo_mensal = consumo_mensal * valor_kwh
 
 # Saída
-print("      RESULTADO      ")
-print(f"Aparelho:         {aparelho}")
-print(f"Consumo mensal:   {consumo_mensal:.2f} kWh")
-print(f"Custo mensal:     R$ {custo_mensal:.2f}")
+print("RESULTADO")
+print(f"Aparelho: {aparelho}")
+print(f"Consumo mensal: {consumo_mensal:.2f} kWh")
+print(f"Custo mensal: R$ {custo_mensal:.2f}")
