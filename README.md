@@ -8,7 +8,7 @@ Este projeto calcula o consumo mensal de energia elétrica de um aparelho e esti
 - Potência <br>
 - Tempo médio de uso diário (em horas) <br><br>
 
-<h2>🧮 Fórmula utilizada (processamento): 🧮</h2>
+<h2>🧮 Fórmulas utilizadas (processamento): 🧮</h2>
 - Consumo mensal: (potência x horas por dia x dias do mês) ÷ 1000 <br>
 - Custo mensal: consumo mensal x valor do kWh <br> <br>
 
